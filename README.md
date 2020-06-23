@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Welcome to ShuttleBusTime!
 
-You can use the [editor on GitHub](https://github.com/Lee-Minju/ShuttleBusTime2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ ## ShuttleBusTime의 기능소개
+ 
+  text
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ ## Members
 
-### Markdown
+  멤버는 총 5명으로 구성되있습니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lee-Minju/ShuttleBusTime2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  - __전상민__ talisman6803
+    - __[github profile](https://github.com/talisman6803)__
+  - __류관우__ lococop
+    - __[github profile](https://github.com/lococop)__
+  - __전현우__ Jeonhyeonwoo
+    - __[github profile](https://github.com/jeonhyeonwoo)__
+  - __김선엽__ goggi772
+    - __[github profile](https://github.com/goggi772)__
+  - __이민주__ Lee-Minju
+    - __[github profile](https://github.com/Lee-Minju)__
+  
+ ## About Project
+   ### 작동화면
+    img + txt
+  
+   ### 구조 브리핑
+    img,  txt
+  
+   ### 참여방법
+   프로젝트의 collaborator로서의 참여를 원하시면, 아래의 E-mail address로 참여를 요청해주십시오.
+   - ju7513@hanyang.ac.kr
+   
+   또는, [팀 repository](https://github.com/Lee-Minju/oss2020-teamproject)를 통해 기여가 가능합니다.
+   
+   그 밖의 요청이나 문의또한 E-mail adress로 연락부탁드립니다.
+   
+   
+  
