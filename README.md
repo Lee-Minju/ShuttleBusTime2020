@@ -38,7 +38,7 @@ You can install via
  If you want to join this project as __collaborator__, please contact us at __E-mail address__.
    - __ju7513@hanyang.ac.kr__
    
- Also you can contribute at __[Team repository](https://github.com/Lee-Minju/oss2020-teamproject)__.
+ Also you can contribute at __[Team repository](https://github.com/Lee-Minju/oss2020-teamproject)__. Please read _Before Contribution_.
    - __[Before Contribution](https://lee-minju.github.io/ShuttleBusTime2020/beforeContribution)__
    
  Please contact us at __E-mail address__ or __[Issues in Team Repositoy](https://github.com/Lee-Minju/oss2020-teamproject/issues)__ for anyother requests or inquiries. 
