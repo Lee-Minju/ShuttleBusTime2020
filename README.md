@@ -23,8 +23,7 @@
 ## Installation
 You can install via 
 
-### Requirement
-This requires __Android 4.1 JELLY_BEAN__ or higher.
+- This requires __Android 4.1 JELLY_BEAN__ or higher.
 
 
 ## About Project
