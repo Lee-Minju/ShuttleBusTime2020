@@ -34,7 +34,7 @@ This requires __Android 4.1 JELLY_BEAN__ or higher.
 ### 구조 브리핑
  
   
-### Participation or Contact 
+## Participation or Contact 
  If you want to join this project as __collaborator__, please contact us at __E-mail address__.
    - __ju7513@hanyang.ac.kr__
    
