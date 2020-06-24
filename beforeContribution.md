@@ -4,7 +4,7 @@ You can conde contribution on [Team Repositroy](https://github.com/Lee-Minju/oss
 
 ### Integrated Development Environment (IDE)
 
-We use __[Android Studio](https://developer.android.com/studio)__ to develop application. You can use __Andorid Studio__ 3.6(or later version) for contributuion.
+We use __[Android Studio](https://developer.android.com/studio)__ to develop application. You can use __Andorid Studio3.6__(or later version) for contribution.
 
 ### Database
 
