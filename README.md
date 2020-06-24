@@ -44,7 +44,7 @@ This requires __Android 4.1 JELLY_BEAN__ or higher.
   
 ### Requirements for participation
  
- txt
+ please check this [post](https://lee-minju.github.io/ShuttleBusTime2020/postTest)
    
    
   
