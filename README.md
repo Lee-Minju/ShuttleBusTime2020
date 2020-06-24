@@ -41,7 +41,7 @@ This requires __Android 4.1 JELLY_BEAN__ or higher.
  Also you can contribute at __[Team repository](https://github.com/Lee-Minju/oss2020-teamproject)__.
    - __[Before Contribution](https://lee-minju.github.io/ShuttleBusTime2020/beforeContribution)__
    
- Please contact us at __E-mail address__ for anyother requests or inquiries. 
+ Please contact us at __E-mail address__ or __[Issues in Team Repositoy](https://github.com/Lee-Minju/oss2020-teamproject/issues)__ for anyother requests or inquiries. 
   
    
   
