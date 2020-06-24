@@ -5,6 +5,7 @@
  
  It provides information on weekday and weekends(including holidays) separately.
 
+
 ## Members
  There are 5 members in this project now.
 
@@ -17,13 +18,13 @@
 - __김선엽__       [goggi772](https://github.com/goggi772)
 
 - __이민주__       [Lee-Minju](https://github.com/Lee-Minju)
-  
+
+
 ## Installation
 You can install via 
 
 ### Requirement
-
-
+This requires __Android 4.1 JELLY_BEAN__ or higher.
 
 
 ## About Project
