@@ -1,4 +1,5 @@
 # Contribution
+------------
 ## Code Contribution
 You can conde contribution on [Team Repositroy](https://github.com/Lee-Minju/oss2020-teamproject).
 
@@ -26,7 +27,7 @@ and pull request on this repository.
 Also you can find information about Markdown on 
  - __[Github guides for Mastering Makrdown](https://guides.github.com/features/mastering-markdown/)__.
  
-
+------------
 
 Plese contact us at __[Issues of Team repository](https://github.com/Lee-Minju/oss2020-teamproject/issues)__ if you have anyother contribution idea.
 
