@@ -21,7 +21,7 @@ The server environment for this project's database is
 ## Testing
 You can find sources about testing at __[Team Repositroy](https://github.com/Lee-Minju/oss2020-teamproject)__.
 
-__ShuttleBusTime__ requires a environment at least __[Andorid](https://developer.android.com/about) 4.1__. Please test on environment __Android 4.1__ or higher. 
+__ShuttleBusTime__ requires a environment at least __[Andorid](https://developer.android.com/about) 4.1 JELLY_BEAN__. Please test on environment __Android 4.1 JELLY_BEAN__ or higher. 
 
 After testing, please notice at __[Issues of Team repository](https://github.com/Lee-Minju/oss2020-teamproject/issues)__ if you have someting to notice.
 
