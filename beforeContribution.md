@@ -11,6 +11,12 @@ We use __[Android Studio](https://developer.android.com/studio)__ to develop app
 
 We use  __[MariaDB](https://mariadb.org/)__ for managing DataBase. Please check if you want to contribute about DB.
 
+The server environment for this project's database is 
+ - __[CentOS](https://www.centos.org/) 7__
+ - __[PHP](https://www.php.net/) 7.2__
+ - __[Apache HTTP Server](https://httpd.apache.org/)__
+ - __MySQL 5.8__
+
 ------------
 ## Testing
 You can find sources about testing at __[Team Repositroy](https://github.com/Lee-Minju/oss2020-teamproject)__.
