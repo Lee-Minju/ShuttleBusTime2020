@@ -11,6 +11,7 @@ We use __[Android Studio](https://developer.android.com/studio)__ to develop app
 
 We use  __[MariaDB](https://mariadb.org/)__ for managing DataBase. Please check if you want to contribute about DB.
 
+------------
 ## Testing
 You can find sources about testing at __[Team Repositroy](https://github.com/Lee-Minju/oss2020-teamproject)__.
 
@@ -18,6 +19,7 @@ __ShuttleBusTime__ requires a environment at least __[Andorid](https://developer
 
 After testing, please notice at __[Issues of Team repository](https://github.com/Lee-Minju/oss2020-teamproject/issues)__ if you have someting to notice.
 
+------------
 ## Documentation
 
 If want contribute about documentation of Homepage of project, You can use Markdown on README.md
@@ -28,6 +30,5 @@ Also you can find information about Markdown on
  - __[Github guides for Mastering Makrdown](https://guides.github.com/features/mastering-markdown/)__.
  
 ------------
-
 Plese contact us at __[Issues of Team repository](https://github.com/Lee-Minju/oss2020-teamproject/issues)__ if you have anyother contribution idea.
 
