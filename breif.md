@@ -1,7 +1,0 @@
-# Breif Structure
-
-------------
-## Breif Structure
-
-
-
