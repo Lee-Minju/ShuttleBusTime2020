@@ -4,7 +4,7 @@
 ## ShuttleBusTime
  __ShuttleBustTime__ is android application that provides timetable information about shuttle bus of Hanyang University ERICA campus.
  
- It provides information on weekday and weekends(including holidays) separately.
+ It provides information on weekdays and weekends(including holidays) separately.
 
 ------------
 ## Members
@@ -28,10 +28,8 @@ You can install via
 
 ------------
 ## About Project
-### 작동화면
- ![app1](./img/app1.jpg)
- ![app2](./img/app2.jpg)
- ![app3](./img/app3.jpg)
+### Operating Screens
+ - __[Operating Screens](https://lee-minju.github.io/ShuttleBusTime2020/operate)__
   
 ### Structure
  - __[Brief Structure](https://lee-minju.github.io/ShuttleBusTime2020/brief)__
