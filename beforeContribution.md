@@ -7,6 +7,8 @@ You can conde contribution on [Team Repositroy](https://github.com/Lee-Minju/oss
 
 We use __[Android Studio](https://developer.android.com/studio)__ to develop application. You can use __Andorid Studio3.6__(or later version) for contribution.
 
+Also You are free to use whatever IDE you prefer, or your favorite command line editor which is appropriate to environment of this project.
+
 ### Database
 
 We use  __[MariaDB](https://mariadb.org/)__ for managing DataBase. Please check if you want to contribute about DB.
