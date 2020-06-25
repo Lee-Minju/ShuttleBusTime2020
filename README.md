@@ -29,7 +29,7 @@ You can install via
 ------------
 ## About Project
 ### 작동화면
- 완성시 캡쳐화면 img추가하고 간단한 설명
+ ![app1](./img/app1)
   
 ### Structure
  - __[Brief Structure](https://lee-minju.github.io/ShuttleBusTime2020/brief)__
