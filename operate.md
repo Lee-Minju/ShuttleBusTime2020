@@ -16,6 +16,5 @@
 
 ![app5](./img/app5.jpg)
 
-------
 Using the tabs in the upper right coner, the User can view timetable of shuttle bus on weekdays and weekends seperately. Also explanation of bus route is informed.
 
