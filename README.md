@@ -25,7 +25,6 @@
 You can dowload apk file in Team Repository.
  - __[Team Repository](https://github.com/Lee-Minju/oss2020-teamproject)__
  - Download apk file from team repo and execute the apk to install the application.
-
 - This requires __Android 4.1 JELLY_BEAN__ or higher.
 
 ------------
