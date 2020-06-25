@@ -8,3 +8,4 @@ This project develop __Android Application__ using __[Android Studio](https://de
 
 Database is constructed and maintained through __[MariaDB](https://mariadb.org/)__. Database has information of staringpoint, destination, route and time corresponding to each shuttle bus.
 
+Application does not import data from database directly. It imports data as JSON
