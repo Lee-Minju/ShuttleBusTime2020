@@ -31,7 +31,8 @@ You can install via
 ### 작동화면
  완성시 캡쳐화면 img추가하고 간단한 설명
   
-### 구조 브리핑
+### Structure
+ - __[Brief Structure](https://lee-minju.github.io/ShuttleBusTime2020/brief)__
  
 ------------  
 ## Participation or Contact 
